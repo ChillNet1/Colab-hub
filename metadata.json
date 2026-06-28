@@ -1,0 +1,11 @@
+{
+  "name": "Video Conferencing & Collaboration Hub",
+  "description": "A modern, professional real-time video conferencing, chat, and collaborative whiteboard application built with React, WebRTC, Express, and WebSockets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
